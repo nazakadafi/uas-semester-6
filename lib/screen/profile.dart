@@ -40,7 +40,7 @@ class Profil extends StatelessWidget {
                   padding: const EdgeInsets.all(4.0),
                   child: CircleAvatar(
                     radius: 50,
-                    backgroundImage: AssetImage('images/p3.jpg'),
+                    backgroundImage: AssetImage('images/logo_1.jpg'),
                   ),
                 ),
               ),
